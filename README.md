@@ -1,4 +1,4 @@
-# React Redux Basics
+# React Router Basics
 
 Quick node project to practice React Router basics.
 
